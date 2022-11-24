@@ -1,0 +1,6 @@
+flyway:
+  enabled: true
+  encoding: UTF-8
+  user: sa
+  password:
+
